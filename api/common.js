@@ -19,9 +19,9 @@ exports.HASH_LENGTH = 18;
 exports.ASCII = /^[\x20-\x7E]+$/;
 
 // for forgot password
-exports.FROM_EMAIL = "admin@yourctf.com";
-exports.FROM_NAME = "Your CTF";
-exports.DOMAIN = "yourctf.com";
+exports.FROM_EMAIL = "admin@ctfa.herokuap.com";
+exports.FROM_NAME = "CTFA";
+exports.DOMAIN = "https://ctfa.herokuapp.com";
 
 // !! IMPORTANT !!
 // Don't forget to add SENDGRID_USERNAME and SENDGRID_PASSWORD to your
